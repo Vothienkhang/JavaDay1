@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Buoi 1 - Java.iml" filepath="$PROJECT_DIR$/.idea/Buoi 1 - Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearEquationResolver/LinearEquationResolver.iml" filepath="$PROJECT_DIR$/LinearEquationResolver/LinearEquationResolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmi-calculator/bmi-calculator.iml" filepath="$PROJECT_DIR$/bmi-calculator/bmi-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-of-month/day-of-month.iml" filepath="$PROJECT_DIR$/day-of-month/day-of-month.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leap-year-calculator/leap-year-calculator.iml" filepath="$PROJECT_DIR$/leap-year-calculator/leap-year-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system-time/system-time.iml" filepath="$PROJECT_DIR$/system-time/system-time.iml" />
+    </modules>
+  </component>
+</project>

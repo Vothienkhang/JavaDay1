@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LinearEquationResolver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Operator-Expression" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Variable-DataType" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bmi-calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day-of-month" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/leap-year-calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system-time" vcs="Git" />
+  </component>
+</project>
